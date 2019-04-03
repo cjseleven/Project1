@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int k = enc(int x)
+int k = enc(int x);
 
 int main()
 {
+    char str[] = {a, b, c, d, e, f, g, h}
     
     char a = 0;
     char b = 1;
