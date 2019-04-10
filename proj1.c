@@ -28,6 +28,9 @@ int main()
         case 'd': quit();
         break;
     }
+    
+    hello
+    hello
    
 
   return 0;
